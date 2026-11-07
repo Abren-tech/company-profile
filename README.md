@@ -43,19 +43,19 @@ Founded with expertise in both **software development and electrical engineering
 | **Artificial Intelligence** | AI-powered applications, intelligent automation and data-driven solutions |
 | **Digital Solutions** | Technology consulting, system integration and process automation |
 
-### ⚡ Electrical Engineering Solutions
+### ⚡ Electrical & Electronics Solutions
 
 | Service | Description |
-| :--- | :--- |
-| **Electrical Design & Installation** | Electrical system design, wiring and installation for residential, commercial and industrial buildings |
-| **Power Systems** | Power distribution, load analysis, protection and maintenance |
-| **Renewable Energy** | Solar power system design and installation, including off-grid and backup solutions |
-| **Industrial Automation** | Control systems, PLC programming and automation of industrial processes |
-| **Embedded Systems & IoT** | Smart devices, sensors, monitoring systems and connected hardware |
+|---|---|
+| **Electrical Installation** | Electrical wiring, equipment installation, and electrical system setup for residential and commercial spaces. |
+| **CCTV & Security Systems** | Installation and configuration of modern CCTV cameras, video surveillance, and security systems. |
+| **PCB Design** | Printed Circuit Board (PCB) design, prototyping guidance, and electronic circuit development. |
+| **Sensor Installation** | Installation and integration of sensors for monitoring, detection, measurement, and automation applications. |
+| **Engineering Consulting** | Technical consultation, system selection, troubleshooting, and guidance for electrical and electronic projects. |
 
-### 🔌 Where It Comes Together
+### 🔌 Where Software Meets Hardware
 
-We combine software development and electrical engineering to create connected solutions, including **smart monitoring systems, sensor-based applications, IoT devices and intelligent dashboards** that turn real-world data into useful insights.
+We combine software development and electrical engineering to create connected solutions, including smart monitoring systems, sensor-based applications, IoT devices, and intelligent dashboards that turn real-world data into useful insights.
 
 ## 🎯 Mission
 
