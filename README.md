@@ -21,9 +21,9 @@
 
 ## 👋 Welcome
 
-**Abren Technology** is a technology and engineering company that builds software, AI-powered applications and electrical solutions to solve real-world problems.
+**Abren Technology** is a technology and engineering company specializing in **software development, artificial intelligence, electrical engineering and smart systems**.
 
-What sets us apart is that we work on **both sides of technology**: the code and the hardware it runs on. From a business web platform to a building's electrical system to a smart, connected device, we deliver complete solutions for businesses, institutions and individuals.
+We bring software and hardware together to develop practical, innovative solutions for businesses, institutions and individuals. From intelligent digital platforms and AI-powered applications to electrical systems, industrial automation and connected devices, we transform ideas into reliable technology.
 
 ## 🤝 About Us
 
@@ -55,7 +55,7 @@ Founded with expertise in both **software development and electrical engineering
 
 ### 🔌 Where It Comes Together
 
-Our software and electrical teams work side by side, so we can build solutions that connect both worlds: smart energy monitoring, remote control of equipment, automated systems with dashboards, and IoT platforms that turn hardware data into useful insight.
+We combine software development and electrical engineering to create connected solutions, including **smart monitoring systems, sensor-based applications, IoT devices and intelligent dashboards** that turn real-world data into useful insights.
 
 ## 🎯 Mission
 
